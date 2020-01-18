@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'ksin\'s develop blog',
+  subtitle: '매일 발전하려고 노력하는 초보 개발자입니다.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'kimhyuk',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
